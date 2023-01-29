@@ -1,5 +1,3 @@
-**This is a work in progress, we are currently migrating from a self hosted Gitea instance**
-
 # Total Anarchy Servers
 
 We are an unmoderated and non-restrictive Garry's Mod sandbox server with a focus on high quality development, applying an enterprise-style approach to server operation, DevOps, and addons.
